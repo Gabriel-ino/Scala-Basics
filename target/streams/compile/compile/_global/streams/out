@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/bagriel/firstscalaproject/src/main/scala/Main.scala:47:25: not found: value CBVvsCBV[0m
+[0m[[0m[31merror[0m] [0m[0m    CBNvsCBV.printFirst(CBVvsCBV.infinite(), 34)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
